@@ -38,7 +38,7 @@ GitHub Stats
 
 <div align="center">
 
-![Zahid's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=ZahidParvaiz&theme=react-dark&custom_title=Zahid%27s%20Contributions&radius=10&area=true)]
+![Zahid's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=ZahidParvaiz&theme=react-dark&custom_title=Zahid%27s%20Contributions&radius=10&area=true)
 
 </div>
 
